@@ -13,10 +13,10 @@
       <a class="nav-link" href="#">Link 1</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Link 2</a>
+      <a class="nav-link" href="#">LInk 2</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="myadmin/admin.php">Admin</a>
+      <a class="nav-link" href="myadmin/index.php">Admin</a>
     </li>
   </ul>
 </nav>

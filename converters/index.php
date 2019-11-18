@@ -23,6 +23,7 @@
     </div>
 
     <?php require_once('include/footer.php')?>
+    </section>
 
 
 </body>
